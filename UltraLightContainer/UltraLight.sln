@@ -5,13 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltraLight", "UltraLight\Ul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltraLight.Tests", "UltraLight.Tests\UltraLight.Tests.csproj", "{39B08322-FB77-4976-83B2-72C57C1C2A11}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{57868796-8A32-42D9-8188-F20182A0BF3F}"
-	ProjectSection(SolutionItems) = preProject
-		Local.testsettings = Local.testsettings
-		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
-		UltraLight.vsmdi = UltraLight.vsmdi
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = UltraLight.vsmdi
